@@ -225,3 +225,17 @@
 	letter-spacing: 0.018em;
 	color: #787885;
 }
+
+.collection-more {
+	margin-top: 50px;
+	text-align: right;
+}
+
+.collection-more>a {
+	text-decoration: none;
+	color: #E02C6D;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 24px;
+	padding-right: 10px;
+}
