@@ -125,6 +125,7 @@
 	padding: 20px 0;
 	border-top: 2px solid rgb(231, 230, 230);
 	border-bottom: 2px solid rgb(231, 230, 230);
+	border-image: radial-gradient(rgba(3, 3, 3, 0.386), rgba(255, 255, 255, 0.282)) 1;
 }
 
 .home-part2>img {
