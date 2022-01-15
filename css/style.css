@@ -412,9 +412,9 @@ footer {
 		grid-template-columns: 1fr 1fr;
 	}
 
-	.collection-more {
+	/* .collection-more {
 		text-align: center;
-	}
+	} */
 
 	.join>h2 {
 		text-align: center;
