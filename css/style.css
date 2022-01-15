@@ -408,6 +408,10 @@ footer {
 	.nav-icon {
 		margin: 10px 0;
 	}
+
+	.collection-more {
+		text-align: center;
+	}
 }
 
 @media screen and (max-width:688px) {
