@@ -126,8 +126,15 @@
 	align-items: center;
 }
 
-.home-right img {
-	width: 400px;
+
+.camera-image {
+	width: 300px;
+	transition: 0.3s ease-in-out;
+}
+
+.home-right:hover .camera-image {
+	transform: translateY(-30px);
+
 }
 
 .home-part2 {
@@ -275,7 +282,6 @@
 	color: #3A3A3A;
 	border-radius: 8px;
 	text-align: center;
-	/* border: 3px solid #E02C6D; */
 	box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
 }
 
